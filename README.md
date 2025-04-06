@@ -1,0 +1,2 @@
+# hoshino-numerology
+星乃御堂の数秘術を使った自己分析と相性診断ができるWebアプリ
